@@ -139,6 +139,12 @@ footer {
     font-size: 30px;
 }
 
+img {
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+
 @keyframes shake {
     10%, 90% {
       transform: translate3d(0, -1px, 0);
@@ -156,4 +162,5 @@ footer {
       transform: translate3d(0, 4px, 0);
     }
   }
+
 
